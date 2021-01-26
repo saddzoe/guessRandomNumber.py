@@ -1,5 +1,5 @@
 # guessRandomNumber.py
-Guess the random number generator
+# Guess the random number generator
 
 import random
 
